@@ -1,0 +1,6 @@
+Controlador\BancoControlador.class
+Vista\BancoVista.class
+Main\Main.class
+Modelo\Cliente.class
+Modelo\Transaccion.class
+Modelo\Cuenta.class
